@@ -7,7 +7,7 @@
 
 
 ## SQL
- - [Intro to SQL - Kaggle]()
+ - [Intro to SQL - Kaggle](https://github.com/HenriqueWF/SQL-Kaggle/tree/main)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias! 
